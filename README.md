@@ -39,7 +39,7 @@ https://public.tableau.com/views/Yufei_775_ASSIGN/Story1?:language=zh-CN&:sid=&:
 
 ---
 
-### 📄 Static PDF Version (静态报告版)  
+### 📄 Static PDF Version
 For quick viewing or offline access, you can open the PDF visualization report:  
 👉 [**View PDF Report**]
 https://github.com/se7ven7-7/BikeShare_Visualization/blob/main/YufeiS_BikeShare_visualization.pdf
@@ -54,3 +54,4 @@ https://github.com/se7ven7-7/BikeShare_Visualization/blob/main/YufeiS_BikeShare_
 - **Before vs. After Simulation** — visual comparison of gap reduction effectiveness  
 
 ---
+<img width="891" height="507" alt="image" src="https://github.com/user-attachments/assets/3488245c-1621-44b5-8b2d-a875b3402533" />
